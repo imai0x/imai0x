@@ -14,9 +14,20 @@
     </a>
 </p>
 
+## 🏅 My Github Status
+
+<div>
+    <a href="https://github-readme-stats.vercel.app/api?username=imai0x&show_icons=true&theme=tokyonight">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=imai0x&show_icons=true&theme=tokyonight" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imai0x&theme=tokyonight">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imai0x&theme=tokyonight" />
+    </a>
+</div>
+
 <!---
 
-- 👋 Hi, I’m @williaman006
+- 👋 Hi, I’m Ryosuke Imai
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
